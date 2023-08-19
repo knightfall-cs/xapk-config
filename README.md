@@ -19,7 +19,7 @@ Generate XAPK manifest JSON files with ease using Python. This script simplifies
 1. Install a Python interpreter on your system.
 2. Download or clone this repository.
 3. Open a terminal/command prompt and navigate to the repository directory.
-4. Run the script using the command:
+4. Run the script using the command: `python xapk_config.py`
 
 ---
 
