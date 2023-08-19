@@ -1,6 +1,6 @@
 # XAPK Config
 
-Generate XAPK manifest JSON files with ease using Python. This interactive script simplifies the process of creating XAPK packages for app distribution by configuring expansion OBB files and split APKs.
+Generate XAPK manifest JSON files with ease using Python. This script simplifies the process of creating XAPK packages for app distribution by configuring expansion OBB files and split APKs.
 
 ## Features
 
