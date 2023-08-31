@@ -63,7 +63,7 @@ Welcome to the guide on creating an XAPK (eXpansion APK) package for your Androi
      │    │    │    ├── main.{VersionCode}.{PackageName}.obb
      ├── icon.png
      ├── manifest.json
-     ├── {AnyName}.apk
+     ├── {AppName}.apk
    ```   
 
 4. **Create the XAPK:**
@@ -71,7 +71,7 @@ Welcome to the guide on creating an XAPK (eXpansion APK) package for your Androi
     - Package all the files (including the generated `manifest.json`) into a ZIP file.
     - Rename the ZIP file's extension from `.zip` to `.xapk`.
 
-## Done.
+### Done.
 
 ---
 
