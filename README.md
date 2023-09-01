@@ -28,7 +28,7 @@ Welcome to the guide on creating an XAPK (eXpansion APK) package for your Androi
     cd xapk-config
     ```
 
-### Steps
+## Steps
 
 1. **Run the Script to Create the `manifest.json` File:**
 
@@ -72,7 +72,7 @@ Welcome to the guide on creating an XAPK (eXpansion APK) package for your Androi
     - Package all the files (including the generated `manifest.json`) into a ZIP file.
     - Rename the ZIP file's extension from `.zip` to `.xapk`.
 
-### Done.
+## Done.
 
 ---
 
