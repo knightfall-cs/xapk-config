@@ -56,14 +56,14 @@ Welcome to the guide on creating an XAPK (eXpansion APK) package for your Androi
     Replace `{PackageName}`, `{VersionCode}`, and `{AppName}` with your actual values.
 
     ```
-     📂 Your-App-Files
+     📂 Example.xapk(zip)
      ├── Android/
      │    ├── obb/
-     │    │    ├── {PackageName}/
-     │    │    │    ├── main.{VersionCode}.{PackageName}.obb
+     │    │    ├── com.android.example/
+     │    │    │    ├── main.1.com.android.example.obb
      ├── icon.png
      ├── manifest.json
-     ├── {AppName}.apk
+     ├── example.apk
    ```   
 
 4. **Create the XAPK:**
