@@ -1,6 +1,6 @@
 # XAPK Config
 
-Generate XAPK manifest JSON files with Python. This script simplifies the process of creating XAPK packages by configuring expansion OBB files and split APKs. Find a guide below for detailed instructions on how to create XAPK packages using this script.
+Generate XAPK manifest JSON files with Python. This script simplifies the process of creating XAPK packages by configuring expansion OBB files and split APKs. Find a guide below for instructions on how to create XAPK packages using this script.
 
 ## Features
 
@@ -16,7 +16,7 @@ Generate XAPK manifest JSON files with Python. This script simplifies the proces
 
 # How to Create an XAPK Package using xapk-config
 
-Welcome to the guide on creating an XAPK (eXpansion APK) package for your Android app using the `xapk-config` script.
+Welcome to the guide on creating an XAPK (eXpansion APK) package for your Android app using the `xapk_config` script.
 
 ### Prerequisites
 
@@ -41,7 +41,7 @@ Welcome to the guide on creating an XAPK (eXpansion APK) package for your Androi
     Run the script:
 
     ```bash
-    python xapk-config.py
+    python xapk_config.py
     ```
 
 2. **Prepare Your Files:**
